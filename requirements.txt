@@ -1,1 +1,6 @@
--r server/requirements.txt
+flask
+flask-cors
+gunicorn
+openai
+python-dotenv
+supabase
